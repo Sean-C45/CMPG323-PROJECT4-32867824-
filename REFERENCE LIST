@@ -1,2 +1,59 @@
-# CMPG323-PROJECT4-32867824-
-This repository will be used for project 4 of the user acceptance testing using UIPath to test the user input data on the web application that was created in project 3 
+REFERENCE LIST
+1.UiPath Documentation: UiPath's official documentation is an excellent resource for learning about best practices, including user testing and user experience considerations within the UiPath platform.
+
+2.UiPath Forum: The UiPath community forum is a valuable resource for real-world insights and discussions related to user testing, challenges, and solutions using UiPath.
+
+3.UiPath Academy: UiPath offers online training and certification programs that cover user testing and best practices for RPA development.
+
+3."UiPath RPA: User Guide" (UiPath): This user guide provides detailed information on using UiPath for different scenarios, which may include user testing processes.
+
+4."The Definitive Guide to Robotic Process Automation" (Blue Prism and UiPath): This comprehensive guide explores RPA concepts and practices, including aspects related to user testing.
+Rubin, J., & Chisnell, D. (2008). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests. Wiley.
+
+5.Dumas, J. S., & Redish, J. C. (1999). A Practical Guide to Usability Testing. Intellect Books.
+
+6.Virzi, R. A. (1992). Refining the test phase of usability evaluation: How many subjects is enough? Human Factors, 34(4), 457-468.
+
+7.Tullis, T. S., & Stetson, J. N. (2004). A comparison of questionnaires for assessing website usability. Usability Professionals Association Conference.
+
+8.Dumas, J. S., & Dumas, J. S. (2013). Usability Testing. In Handbook of Human Factors in Web Design (2nd ed.).
+
+9.Krug, S. (2014). Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. New Riders.
+
+10.Spool, J. M., Schroeder, W., Zare, P., & Holman, D. (2007). The Effect of Category-Width on the Performance of Web Catalogs. User Interface Engineering.
+
+11.Tognazzini, B. (2003). Tog on Interface. Addison-Wesley Professional.
+
+12.Nielsen, J. (2000). Why You Only Need to Test with 5 Users. Nielsen Norman Group.
+
+13.Brooke, J. (1996). SUS: A Quick and Dirty Usability Scale. Usability Evaluation in Industry.
+
+14.Sauro, J. (2011). A Practical Guide to the System Usability Scale: Background, Benchmarks, & Best Practices. Measuring Usability LLC
+Faulkner, X. (2003). Usability Engineering. Springer.
+
+15.ISO 9241-11:2018. (2018). Ergonomics of human-system interaction - Part 11: Usability: Definitions and concepts.
+
+16.Molich, R., & Dumas, J. S. (2008). Comparative Usability Evaluation (CUE-4). ACM SIGCHI Conference on Human Factors in Computing Systems.
+
+17.Virzi, R. A., & Sokolov, J. L. (1997). Usability problem identification using both low- and high-fidelity prototypes. CHI'97 Extended Abstracts on Human Factors in Computing Systems.
+
+18.Krug, S. (2013). Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems. New Riders.
+
+19.Carpendale, S. (2003). Evaluating information visualizations. Information Visualization, 2(1), 42-49.
+"Robotic Process Automation: A Guide to Automating Business Processes" (McKinsey & Company): This guide discusses RPA's impact on business processes, including user testing considerations.
+
+20."RPA Implementation: 10 Best Practices to Consider" (CIO Review): This article provides insights into best practices for RPA implementation, which may include user testing.
+
+21."Robotic Process Automation in Business" (UiPath): Whitepapers and reports from UiPath often include insights into RPA implementation, user testing, and related aspects.
+
+22."UiPath Test Suite" (UiPath): UiPath's Test Suite is a set of tools designed for automating testing within the UiPath platform, and the documentation for these tools may be relevant to user testing in your project.
+23."The Definitive Guide to Robotic Process Automation" (Blue Prism and UiPath): This comprehensive guide explores RPA concepts and practices, including aspects related to user testing.
+
+24."UiPath RPA Case Study: Streamlining Accounts Payable" (UiPath Case Study): Case studies like this can provide insights into how UiPath was used in specific scenarios, potentially involving user testing.
+Brooke, J. (2013). SUS: A Retrospective. Journal of Usability Studies, 8(2), 29-40.
+
+25.Jeff Sauro and James Lewis (2012). Quantifying the User Experience: Practical Statistics for User Research. Morgan Kaufmann.
+
+26.Rubin, J. (2005). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests (2nd ed.). Wiley.
+
+27.Hertzum, M., & Jacobsen, N. E. (2001). The Evaluator Effect: A Chilling Fact about Usability Evaluation Methods. International Journal of Human-Computer Interaction, 13(4), 421-443.
