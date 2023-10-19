@@ -1,1 +1,12 @@
+Automated User Acceptance Testing Using Robotic Process Automation (RPA) is the name of the project.
+Project Description
+Robotic process automation (RPA) will be used in this project to simplify and automate the User Acceptance Testing (UAT) procedure for a web application. In the software development lifecycle, the user acceptance testing (UAT) phase is essential for verifying that the application satisfies user expectations and operates properly. UAT frequently entails repeated work, which makes it a prime candidate for automation with RPA.
 
+Task Description
+As part of this initiative, we'll:
+
+Determine the precise UAT specifications for the web application.
+The testing process can be automated by creating RPA scripts or bots.
+Make a test dataset containing representative input and target output data.
+Run the RPA bots to complete the UAT, which includes validating data input and output.
+Execution error
