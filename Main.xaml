@@ -109,12 +109,12 @@
       <Variable x:TypeArguments="sd:DataTable" Name="OrdersTable" />
       <Variable x:TypeArguments="x:String" Name="Password">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">@Justsean45</Literal>
+          <Literal x:TypeArguments="x:String"></Literal>
         </Variable.Default>
       </Variable>
       <Variable x:TypeArguments="x:String" Name="Email">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">32867824@mynwu.ac.za</Literal>
+          <Literal x:TypeArguments="x:String"></Literal>
         </Variable.Default>
       </Variable>
       <Variable x:TypeArguments="sd:DataTable" Name="OrderDetailTable" />
